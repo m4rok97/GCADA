@@ -1,0 +1,22 @@
+datasets/bitcoin
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.venv/
+.env/
+
+# Logs and misc
+*.tmp
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+datasets/bitcoin.zip
+.DS_Store
+datasets/.DS_Store
